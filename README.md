@@ -18,5 +18,14 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 This project can be found at http://codeforftl.org/speakers-list/ (http://codeforftl.org/speakers-list/). 
 
+## Todo
+
+* Set up links in the footer
+* Make table responsive & accessible
+* Resolve linter error in `SpeakerList.js` 
+* Set up jest-axe library for automated accessibility testing
+* Accessible link style
+* Update focus ring style to improve color contrast
+
 
 

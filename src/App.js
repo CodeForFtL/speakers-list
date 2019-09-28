@@ -5,8 +5,6 @@ import Footer from "./components/Footer.js";
 import Intro from "./components/Intro.js";
 import SpeakerList from "./components/SpeakerList.js";
 import Search from "./components/Search.js";
-import RegistrationForm from "./components/RegistrationForm.js";
-import axios from "axios";
 
 
 class App extends Component {

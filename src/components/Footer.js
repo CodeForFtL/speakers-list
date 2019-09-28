@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer id="contact">
       <div className="footer-logo">
-        <img src={require('../Code4FtlLogo.png')} className="footerlogo"/>
+        <img src={require('../Code4FtlLogo.png')} className="footerlogo" alt="Code for Fort Lauderdale logo"/>
       </div>
       <div className="contact">
         <p>Contact Code for Fort Lauderdale</p>
